@@ -22,12 +22,13 @@ This is a dataset that contains parameters that are considered important during 
 
 A glimpse how the data look like :-
 
-GRE      TOEFL     University Rating      SOP      LOR   CGPA      Research  Chance of Admit
-337      118       4                      4.5    9.65     9.65       1              0.92
-324      107       4                      4.5    8.87     8.87       1              0.76
-316      104       3                      3.5    8.00     8.00       1              0.72
-322      110       3                      2.5    8.67     8.67       1              0.80
-314      103       2                      3.0    8.21     8.21       0              0.65
+|GRE  |TOEFL     |University Rating      |SOP    |LOR   |CGPA       |Research      |Chance of Admit|
+| --- | -------- | --------------------- | ----- | ---- | --------- | ------------ | ------------- |
+|337  |118       |4                      |4.5    |9.65  |9.65       |1             |0.92           |
+|324  |107       |4                      |4.5    |8.87  |8.87       |1             |0.76           |
+|316  |104       |3                      |3.5    |8.00  |8.00       |1             |0.72           |
+|322  |110       |3                      |2.5    |8.67  |8.67       |1             |0.80           |
+|314  |103       |2                      |3.0    |8.21  |8.21       |0             |0.65           |
 
 
 And other details are below.
