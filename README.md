@@ -13,7 +13,7 @@ Here we have some data of IITB students who apply for masters in different unive
 7) Does research increase your chance of getting admission? 
 8) What would you prefer, a high CGPA without research or an average CGPA with research or both for getting admission?
 9) Can getting a good Score in GRE give you a high/good LOR?
-10)How much effect does LOR Scores have in getting a high ranked university with low CGPA and no Research?
+10) How much effect does LOR Scores have in getting a high ranked university with low CGPA and no Research?
 
 
 # DATSET OVERVIEW 
