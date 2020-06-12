@@ -12,6 +12,7 @@ df = df[['University Rating', 'SOP', 'LOR ']]
 # LOR -> (1, 5)
 # University Rating out of 5 -> (1, 5)
 
+#five dataframe for each rating
 df1 = df.loc[df['University Rating'] == 1]
 df2 = df.loc[df['University Rating'] == 2]
 df3 = df.loc[df['University Rating'] == 3]
