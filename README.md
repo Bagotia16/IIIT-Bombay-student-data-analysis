@@ -18,7 +18,19 @@ Here we have some data of IITB students who apply for masters in different unive
 
 # DATSET OVERVIEW 
 
-This is a dataset that contains parameters that are considered important during the application for Masters Programs and we are gonna analyse it and visualize it whenever required. Our data set has 500 rows and 8 rows. All the entries are in numerical form. And other details are below.
+This is a dataset that contains parameters that are considered important during the application for Masters Programs and we are gonna analyse it and visualize it whenever required. Our data set has 500 rows and 8 rows. All the entries are in numerical form. 
+
+A glimpse how the data look like :-
+
+GRE   TOEFL   University Rating      SOP      LOR   CGPA  Research  Chance of Admit
+337      118                  4  4.5       4.5      9.65     9.65       1              0.92
+324      107                  4  4.0           4.5      8.87     8.87       1              0.76
+316      104                  3  3.0       3.5      8.00     8.00       1              0.72
+322      110                  3  3.5       2.5      8.67     8.67       1              0.80
+314      103                  2  2.0       3.0      8.21     8.21       0              0.65
+
+
+And other details are below.
 
 Parameters included in the file are :-
 1) GRE ( Graduate Record Examination) Score.
