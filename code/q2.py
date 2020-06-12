@@ -34,17 +34,3 @@ plt.ylabel('Frequency of Occurence')
 plt.title('Score dependency on Research')
 
 pyplot.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-# print(df0.head())
