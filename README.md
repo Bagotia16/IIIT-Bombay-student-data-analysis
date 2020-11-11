@@ -1,4 +1,4 @@
-# IIIT-Bombay-student-data-analysis
+# IIT-Bombay-student-data-analysis
 
 Here we have some data of IITB students who apply for masters in different university. We analyse it and give answers of some interesting questions.
 
